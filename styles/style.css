@@ -1,0 +1,363 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:wght@100&family=Rubik+Scribble&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    font-family: Fira Sans;
+}
+.baner{
+    background-color: #bee3d2;
+    width: 1200px;
+    height: 500px;
+    margin: 30px auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+
+}
+.btn-1{
+  background-color: #006A50;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+.img-1{
+    height:400px ;
+    width: 400px;
+}
+
+
+.taxt-1{
+    width:1200px;
+    height:120px;
+    
+}
+.taxt{
+    width: 600px;
+    height: 250px;
+}
+ section .taxt-1{
+    width:  1150px;
+    margin: 0px auto;
+   
+}
+.card{
+    display: flex;
+    /* gap: 50px; */
+    justify-content: center;
+    width: 1200px;
+    height: 300px;
+    margin: 30px auto;
+   
+   
+
+}
+.card-1{
+   
+    width:350px;
+    height:280px;
+    border-radius: 10px;
+    margin-right: 24px;
+    background-color:#81B4FC;
+
+}
+.card-2{
+    background-color:#C6E4D6;
+    width:350px;
+    height:280px;
+    border-radius: 10px;
+    margin-right: 24px;
+    
+
+}
+.card-3{
+    background-color:#F7EBCF;
+    width:350px;
+    height:280px;
+    border-radius: 10px;
+}
+.card-icon{
+    width: 56px;
+    height: 56px;
+   margin: 10px 0px 0px 10px;
+}
+.recent-newss{
+    width: 1150px;
+    margin: 10px auto;
+}
+.recent-news{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    width: 1150px;
+    margin: 10px auto;
+    background-color:rgb(222, 192, 192) ;
+
+
+    
+
+}
+.satellite{
+    background-color: aquamarine;
+}
+.satellite-img{
+    border-radius: 10px;
+}
+.card h1{
+    width:300px;
+    height: 24px;
+    font-weight: bold;
+    margin: 20px 0px 0px 20px;
+
+}
+.card p{
+   width: 300px;
+   height: 65px;
+   font-size: 16px;
+   margin: 20px 0px 0px 20px;
+}
+.btn-2{
+    background-color:#5490F5;
+  
+    padding: 15px;
+    width: 122px;
+    height: 51px;
+    border-radius: 10px;
+}
+.button-alagin{
+    margin: 20px 0px 20px 20px;
+
+}
+.btn-3{
+    background-color:#09A15C;
+  
+    padding: 15px;
+    width: 122px;
+    height: 51px;
+    border-radius: 10px;
+
+}
+   
+.button-center{
+    margin: 20px 0px 20px 20px;
+
+}
+.btn-4{
+    background-color:#FFC239;
+  
+    padding: 15px;
+    width: 122px;
+    height: 51px;
+    border-radius: 10px;
+
+}
+.button-right{
+    margin: 20px 0px 20px 20px;
+
+}
+.container{
+    
+    width:1200px ;
+    height:120;
+    margin: 20px auto;
+
+}
+.section-2{
+    display: flex;
+    justify-content: center;
+    width: 1100px;
+    height: 380px;
+    gap: 30px;
+    padding: 48px;
+    background-color: #ece5e5;
+    border-radius: 24px;
+   margin: 30px auto;
+}
+.section-2-img{
+    width:400px;
+    height: 280;
+    border-radius: 24px;
+    margin: 30px 30px 30px 30px;
+}
+.section-2 h1{
+    font-weight: bold;
+    font-size: 32px;
+}
+.al-jazeera-photo{
+    width:100px ;
+    height:30px ;
+}
+.section-2 p{
+    width: 600px;
+    height: 70;
+}
+.al-jazeera-btn{
+    padding: 15px;
+    width: 150px;
+    height: 51px;
+    border-radius: 10px;
+    background-color: #006A50;
+    border: none;
+    margin: 10px auto;
+}
+.Donate-today {
+    width: 1200px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+.Donate-today h1{
+    font-weight: bold;
+    font-size: 40px;
+    margin: 32px auto ;
+    text-align: center;
+}
+.Donate-today p{
+    font-size: 16px;
+    text-align: center;
+    font-weight: normal;
+  
+}
+.Donate{
+  
+}
+.amaount{
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+}
+.amaount h1{
+    padding: 30px;
+    background-color: #e4d4d4;
+    margin-right: 30px;
+    width: 150px;
+    height: 50px;
+    border-radius: 16px;
+}
+.peopleceholder{
+    padding: 30px;
+    width: 800px;
+    height: 15px;
+    text-align:center;
+    background-color: #ede1e1;
+
+}
+.placeholder-align{
+    margin: 20px 170px;
+   
+}
+.btn-5{
+   text-align: center;
+}
+.section-last{
+    width: 1200px;
+    height: 400px;
+    background-color: #66c1aa;
+    border-radius: 30px; 
+    margin:10px auto ;
+}
+.section-last h1{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+}
+.section-last p{
+    width: 600px;
+    height: 48px;
+    text-align: center;
+    margin: 3px auto;
+  
+}
+.addjust{
+    width: 550px;
+    height: 40px;
+    text-align: center;
+    border:none;
+    border-radius: 3px;
+}
+.addjustt{
+    /* width: 140px;
+    height:42px; */
+    padding: 10px 32px ;
+    text-align: center;
+    border: none;
+    background-color: #006A50;
+    border-radius: 3px;
+    
+
+
+}
+.button-email{
+    gap: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.last-para{
+    padding:30px 10px ;
+
+}
+.btn-1:hover{
+    background-color: #FFC239;
+
+}
+.btn-2:hover{
+    background-color: yellowgreen;
+}
+.btn-3:hover{
+    background-color: yellow;
+}
+.btn-4:hover{
+    background-color: white;
+}
+.btn-5:hover{
+    background-color: yellow;
+}
+.addjustt:hover{
+    background-color: yellowgreen;
+}
+.al-jazeera-btn:hover{
+    background-color: yellowgreen;
+
+}
+.al-jazeera-btn:hover{
+    background-color: yellowgreen;
+
+}
+.addjustt:hover{
+    background-color: yellow;
+}
+.last-work{
+    width: 1100px;
+    height: 300px;
+    background-color: #aeb9b7;
+    margin: 30px auto;
+    border-radius: 10px;
+    font-size: 16px;
+    line-height: 20px;
+    padding: 30px 30px;
+    
+}
+.last-work h3{
+    font-weight: bold;
+    padding-top: 30px;
+}
+.last-work{
+    background-image: url(../quote-bg.png);
+    background-repeat: no-repeat;
+    /* padding: 30px 0px 0px 30px; */
+    background-position: left top;
+   border: 1px solid black;
+}
+
+
+
+   
+
+
+
+
+
+
